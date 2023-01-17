@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "coloc-app",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

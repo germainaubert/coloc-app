@@ -1,0 +1,7 @@
+{
+  "name": "coloc-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
